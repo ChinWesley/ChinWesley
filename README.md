@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Wesley! 👋
 
 ### About Me
 I'm a passionate Information Systems student who loves working on projects that bridge technology and real-world applications. Currently, I'm exploring **sustainable business practices**, **web development**, and **JavaScript**-based projects.
