@@ -23,7 +23,7 @@ I'm a passionate Information Systems student who loves working on projects that 
 - [GitHub](https://github.com/ChinWesley)
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinWesley&show_icons=true&hide_border=true)
 
 <!-- Optional: Add a joke or a quote to show your personality -->
 #### “Code is like humor. When you have to explain it, it’s bad.” – Cory House
