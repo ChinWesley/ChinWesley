@@ -4,15 +4,14 @@
 I'm a passionate Information Systems student who loves working on projects that bridge technology and real-world applications. Currently, I'm exploring **sustainable business practices**, **web development**, and **JavaScript**-based projects.
 
 - 🌱 I’m currently learning **Agile methodologies**, **JavaScript object manipulation**, and **role-based user stories**.
-- 👨‍💻 I’m working on a **Contact Manager app** and a **scheduling work-from-home web app**.
+- 👨‍💻 I’m working a **Scheduling work-from-home web app**.
 - 🎓 Exploring how technology can contribute to sustainable industries, especially in **Southeast Asia**.
-- ⚡ Fun fact: I enjoy learning about **family backgrounds** in Singapore and how awards help in **educational pursuits**.
+- ⚡ Fun fact: I love applying **analytics in basketball** 🏀 to break down player performance and team strategies.
 
 ### Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ### What I’m Focusing On 🚀
