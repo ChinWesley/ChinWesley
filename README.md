@@ -14,6 +14,7 @@ I'm a passionate Information Systems student who loves working on projects that 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
 ### What I’m Focusing On 🚀
 - Building dynamic, user-centric web applications.
