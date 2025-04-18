@@ -12,9 +12,12 @@ I'm a passionate Information Systems student who loves working on projects that 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 
 ### What I’m Focusing On 🚀
 - Building dynamic, user-centric web applications.
